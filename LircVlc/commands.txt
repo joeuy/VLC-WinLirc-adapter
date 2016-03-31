@@ -1,0 +1,8 @@
+﻿# usage
+# remote_name button vlccommand
+sony455A play pl_play
+sony455A pause pl_pause
+sony455A stop pl_stop
+sony455A fullscreen fullscreen
+sony455A forward seek&val=+30S
+sony455A reverse seek&val=-30S
